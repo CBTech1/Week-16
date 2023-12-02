@@ -50,5 +50,7 @@
     "typescript": "^5.1.6",
     "vite": "^5.0.0",
     "vitest": "^0.34.6"
-  }
+  },
+  "description": "Build a photo gallery app that runs on iOS, Android, and the web - with just one codebase."
 }
+
