@@ -1,0 +1,7 @@
+{
+"name": "ionic-app-base",
+"integrations": {
+  "capacitor": {}
+},
+"iosPath": "/path/to/your/xcode/project"
+}

@@ -3,6 +3,5 @@
   "integrations": {
     "capacitor": {}
   },
-  "type": "react-vite",
-  "iosPath": "/path/to/your/xcode/project"
+  "type": "react-vite"
 }
